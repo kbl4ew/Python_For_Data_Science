@@ -1,0 +1,4 @@
+Homework7_Pandas.ipynb
+Trial.ipynb
+closed.json
+name.txt
